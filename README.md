@@ -1,5 +1,5 @@
 # UltraTime
 
-** * Drew DiGuglielmo
-** * Eliza Thayer
-** * Sophia Noonan
+* Drew DiGuglielmo
+* Eliza Thayer
+* Sophia Noonan
